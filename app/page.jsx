@@ -25,7 +25,7 @@ export default function Home() {
     <main style={styles.main}>
       <div style={styles.inner}>
         <h1 style={styles.h1}>Hello, Next.js on Vercel 👋</h1>
-        <p style={styles.p}>Built with GitHub Actions on a Blacksmith runner.</p>
+        <p style={styles.p}>Built with GitHub Actions on a Blacksmith runner — with warm caches. 🔥</p>
         <p style={styles.p}>Build time: {new Date().toISOString()}</p>
         <span style={styles.badge}>annagzh-personal-org → annagzh team</span>
       </div>
